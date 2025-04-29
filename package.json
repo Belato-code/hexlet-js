@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Learn to build environment",
+  "keywords": [
+    "Learn"
+  ],
+  "homepage": "https://github.com/Belato-code/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/Belato-code/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belato-code/hexlet-js.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Belato",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
