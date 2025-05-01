@@ -16,9 +16,12 @@
   },
   "license": "UNLICENSED",
   "author": "Belato",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "npm": "^11.3.0"
   }
 }
